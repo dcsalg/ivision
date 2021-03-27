@@ -1,0 +1,203 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-chno="9" tvg-id="americatv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+ 
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://w2.junindelosandes.gov.ar/wp-content/uploads/2017/02/imagen-294.png" group-title="ARGENTINA",TV PUBLICA
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+ 
+#EXTINF:-1 tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
+https://ar-elnueve-elnueve-live.ned.media:443//live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Nzk3NjE0LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6Ijk0MGYwYzYzYjRiNjVlY2JmMmE0YjkxMTE2ODFiZWZmNWZmOTE3MjYifQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+#EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
+https://g3.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF: https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="ARGENTINA", Multivision Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://televisionlibre.net/img/logo_canal/Cronica_TV.png" group-title="ARGENTINA", Cronica HD
+https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
+http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title="ARGENTINA", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1828000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="Music Top" tvg-name="Music Top" tvg-logo="https://televisionlibre.net/img/logo_canal/Music_Top.png" group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_sleng.m3u8
+#EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
+http://45.170.40.2:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/A24.png?" group-title="ARGENTINA",A24 
+http://45.170.40.2:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="ARGENTINA",Volver 
+http://45.170.40.2:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="ARGENTINA",Canal Rural 
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:--------------------------INFANTIL-----------------------------------------
+
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Pakapaka.png" group-title="INFANTILES",Paka-Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
+
+
+#EXTINF:--------------------------DOCUMENTALES-----------------------------------------
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
+https://blackghost.live/play/teleclub-325.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery h&h
+https://blackghost.live/play/teleclub-325.php?c=la-discovery-home-health&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
+http://45.170.40.2:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History-Channel
+https://blackghost.live/play/teleclub-325.php?c=la-history-channel-hd&f=.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
+
+
+#EXTINF:--------------------------INTERNACIONAL-----------------------------------------
+
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL",TVE 
+http://45.71.202.210:50000/play/a020/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="INTERNACIONAL", TLN
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=telenovelas&k=black-ghost&f=.m3u8
+
+
+#EXTINF:--------------------------DEPORTES-----------------------------------------
+
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
+https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
+#EXTINF: https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
+http://45.170.40.2:8000/play/a009/index.m3u8
+#EXTINF: https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
+http://45.170.40.2:8000/play/a03g/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
+https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
+
+
+
+#EXTINF:--------------------------ENTRETENIMIENTO-----------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="ENTRETENIMIENTO",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTRETENIMIENTO",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
+https://blackghost.live/play/teleclub-325.php?c=la-mtv-hd&f=.m3u8
+#EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",M2O TV (ITALIA)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:--------------------------CINE-----------------------------------------
+
+
+#EXTINF:-1 group-title="CINE",Cine AR
+http://45.170.40.2:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
+https://blackghost.live/play/teleclub-325.php?c=la-cinemax&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
+https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star Channel
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="CINE",HBO
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="CINE",HBO 2
+https://blackghost.live/play/zufree-325.php?c=310&f=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
+https://blackghost.live/play/teleclub-325.php?c=la-paramount-channel-hd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
+https://blackghost.live/play/teleclub-325.php?c=la-universal-channel&f=.m3u8
+
+#EXTINF:-1 group-title="CINE",Warner Channel
+https://blackghost.live/play/teleclub-325.php?c=la-warner-hd&f=.m3u8
+
+#EXTINF:-1 group-title="CINE",Sony Channel
+https://blackghost.live/play/teleclub-325.php?c=la-sony-hd&f=.m3u8
+
+
+
+#EXTINF:--------------------------24/7-----------------------------------------
+
+
+#EXTINF:-1 group-title="24 7",LOS PICA PIEDRAS
+https://blackghost.live/play/zufree-325.php?c=50&f=.ts
+
+#EXTINF:-1 group-title="24 7",ALF
+https://blackghost.live/play/zufree-325.php?c=11&f=.ts
+
+#EXTINF:-1 group-title="24 7",EL CHAVO DEL 8
+https://blackghost.live/play/zufree-325.php?c=30&f=.ts
+
+#EXTINF:-1 group-title="24 7",LA PANTERA ROSA
+https://blackghost.live/play/zufree-325.php?c=44&f=.ts
+
+#EXTINF:-1 group-title="24 7",JUEGO DE TRONOS
+https://blackghost.live/play/zufree-325.php?c=39&f=.ts
