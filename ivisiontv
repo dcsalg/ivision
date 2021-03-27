@@ -170,6 +170,9 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo&k=black-ghost&f
 #EXTINF:-1 group-title="CINE",HBO 2
 https://blackghost.live/play/zufree-325.php?c=310&f=.ts
 
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="CINE",HBO XTREME
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=maxprime&k=black-ghost&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-325.php?c=la-paramount-channel-hd&f=.m3u8
 
