@@ -119,7 +119,7 @@ http://170.79.233.222:8500/play/a0m6/index.m3u8
 http://45.170.40.2:8000/play/a03g/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
+http://45.170.40.2:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
