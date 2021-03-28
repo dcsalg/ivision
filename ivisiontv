@@ -27,7 +27,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://televisionlibre.net/img/logo_canal/Cronica_TV.png" group-title="ARGENTINA", Cronica HD
-https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+https://r2---sn-ja5gv5g-x1xl.googlevideo.com/videoplayback?expire=1616959976&ei=iIVgYPn6K8qJxgTZ7o6oCg&ip=186.12.137.183&id=wVCz7byzADU.1&itag=140&source=yt_live_broadcast&requiressl=yes&hcs=yes&mh=pl&mm=44%2C29&mn=sn-ja5gv5g-x1xl%2Csn-x1x7dn7k&ms=lva%2Crdu&mv=m&mvi=2&pl=20&shardbypass=yes&smhost=r2---sn-jup-x1xz.googlevideo.com&initcwndbps=681250&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=DdKDrhg624UQt2ZcYorTio4F&gir=yes&mt=1616938100&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=JU634KI4tpuKJA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgKrVBMMhhCTUJWWQsxPrSpQo6ci8WaruGNrBPwmexhg4CIAjq4Dj-hNJx27byq3SOVsJbwdlvyOjzS2SjVlxVINe7&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOeXQGrpoAYzVAL-2lnxf5gdDaP-OjN2N2jI9sp4vSmaAiBDY9rjAO1jzqfu_0QeE_5D0NTD8LSszIe4nkItDay1Zg%3D%3D&alr=yes&cpn=oSH5_SubFsEkSGyD&cver=1.20210322.1.0&sq=272084&rn=6&rbuf=9743
  
 #EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
 http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
