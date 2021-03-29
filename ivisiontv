@@ -171,7 +171,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
