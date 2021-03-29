@@ -153,9 +153,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:--------------------------CINE-----------------------------------------
 
 
-#EXTINF:-1 group-title="CINE",Cine AR
-http://45.170.40.2:8000/play/a01m/index.m3u8
-
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
