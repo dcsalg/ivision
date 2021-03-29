@@ -85,7 +85,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617006955/ei/C
 https://blackghost.live/play/teleclub-328.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/wistream-325.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
+https://blackghost.live/play/teleclub-328.php?c=la-animal-planet-hd&f=.m3u8
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------
@@ -157,7 +157,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=qf9ILtYsUU59Wd0LTq8tXQ&e=1617002756
+https://blackghost.live/play/teleclub-328.php?c=la-cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/teleclub-328.php?c=la-fx-hd&f=.m3u8
