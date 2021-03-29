@@ -54,9 +54,6 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/A24.png?" group-title="ARGENTINA",A24 
 http://45.170.40.2:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="ARGENTINA",Volver 
-http://45.170.40.2:8000/play/a01j/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="ARGENTINA",Canal Rural 
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 
@@ -182,6 +179,10 @@ https://blackghost.live/play/teleclub-325.php?c=la-HBO-2&f=.m3u8
 
 #EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="CINE",HBO XTREME
 http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
+
+#EXTINF:-1  group-title="CINE",HBO Signature
+https://blackghost.live/play/teleclub-325.php?c=HBO-SIGNATURE-HD&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-325.php?c=la-paramount-channel-hd&f=.m3u8
