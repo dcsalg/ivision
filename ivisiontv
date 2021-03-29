@@ -187,7 +187,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-paramount-channel-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
 https://blackghost.live/play/teleclub-325.php?c=la-universal-channel&f=.m3u8
 
-#EXTINF:-1 group-title="CINE",Warner Tv
+#EXTINF:-1 group-title="CINE",Warner
 https://blackghost.live/play/teleclub-325.php?c=la-warner-hd&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
