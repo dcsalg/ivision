@@ -178,7 +178,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-HBO-2&f=.m3u8
 http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
 
 #EXTINF:-1  group-title="CINE",HBO Signature
-https://blackghost.live/play/teleclub-325.php?c=HBO-SIGNATURE-HD&f=.m3u8
+http://170.79.233.222:8500/play/a0l1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
