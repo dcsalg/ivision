@@ -70,7 +70,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-disney-channel-hd&f=.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Pakapaka.png" group-title="INFANTILES",Paka-Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616997612/ei/jBhhYOuVE_TN1sQPpfGz8AI/ip/186.12.137.183/id/uLn5H8NkAjw.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOhjFuu88LAfzBSVJgFD50wTYBvP9AhJL9bqqwGaCgoUAiEAuy5F4NfsUSr9IouAEX0qsBx3TQ8KAK2DHv4h-_crfDs%3D/file/index.m3u8
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
