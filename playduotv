@@ -61,7 +61,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 
 #EXTINF:-1   group-title="INFANTILES",Disney-Channel
-https://blackghost.live/play/teleclub-325.php?c=la-disney-channel-hd&f=.m3u8
+https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=disneychannel&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
