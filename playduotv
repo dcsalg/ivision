@@ -11,7 +11,7 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/master/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MjEyMTE0LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6ImQwMDA3Njk0NGQ5ZGE5OTY1MzhmYjc0ZjVkMjMyOTYwZWEyZTY0MzAifQ==
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/master/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MjEyMzY1LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6IjBhNWVjNmY2YmI1ZTVlMjgxZGVjYzljZjZiNzc0M2ZiMjhkODg4YTEifQ==
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
 https://blackghost.live/play/wistream-328.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
