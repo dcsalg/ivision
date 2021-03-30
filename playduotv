@@ -142,7 +142,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment 
-http://200.54.19.131:8500/play/a0i4/index.m3u8
+http://45.71.202.210:50000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
 https://blackghost.live/play/wistream-328.php?cat=latinos&ch=mtv&k=black-ghost&f=.m3u8
