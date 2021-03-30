@@ -46,10 +46,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
-http://45.170.40.2:8000/play/a018/index.m3u8
+https://blackghost.live/play/wistream-328.php?cat=latinos&ch=c5n&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
-https://blackghost.live/play/wistream-328.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/A24.png?" group-title="ARGENTINA",A24 
 http://45.170.40.2:8000/play/a017/index.m3u8
