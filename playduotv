@@ -18,7 +18,7 @@ https://blackghost.live/play/wistream-328.php?cat=latinos&ch=eltrece&k=black-gho
 #EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
-https://g2.vxral-slo.transport.edge-access.net:443/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8
+https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
