@@ -17,7 +17,7 @@ https://blackghost.live/play/wistream-328.php?cat=latinos&ch=eltrece&k=black-gho
 #EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
-https://g3.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+https://blackghost.live/play/wistream-328.php?cat=latinos&ch=ciudadmagazine&k=black-ghost&f=.m3u8
 #EXTINF: https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
@@ -67,7 +67,7 @@ https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=disneychannel&k=
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Pakapaka.png" group-title="INFANTILES",Paka-Paka
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616997612/ei/jBhhYOuVE_TN1sQPpfGz8AI/ip/186.12.137.183/id/uLn5H8NkAjw.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOhjFuu88LAfzBSVJgFD50wTYBvP9AhJL9bqqwGaCgoUAiEAuy5F4NfsUSr9IouAEX0qsBx3TQ8KAK2DHv4h-_crfDs%3D/file/index.m3u8
+https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=pakapaka&k=black-ghost&f=.m3u8
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
@@ -142,7 +142,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-https://blackghost.live/play/teleclub-325.php?c=la-mtv-hd&f=.m3u8
+https://blackghost.live/play/wistream-328.php?cat=latinos&ch=mtv&k=black-ghost&f=.m3u8
 #EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg" group-title="ENTRETENIMIENTO",radiom2o
