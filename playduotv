@@ -166,7 +166,7 @@ http://200.54.19.131:8500/play/a0e4/index.m3u8
 http://38.18.237.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=bYYOSAAMsb6eP-Xkgl4A7w&expires=1616010671
 
 #EXTINF:-1 group-title="CINE",HBO 2
-https://blackghost.live/play/teleclub-328.php?c=la-HBO-2&f=.m3u8
+http://200.54.19.131:8500/play/a0e6/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO XTREME
 http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
