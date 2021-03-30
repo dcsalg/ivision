@@ -160,7 +160,7 @@ https://blackghost.live/play/wistream-328.php?cat=latinos&ch=fxm&k=black-ghost&f
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
-https://blackghost.live/play/teleclub-328.php?c=foxchannel/index.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
+http://200.54.19.131:8500/play/a0e4/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
 http://38.18.237.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=bYYOSAAMsb6eP-Xkgl4A7w&expires=1616010671
