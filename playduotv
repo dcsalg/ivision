@@ -162,7 +162,7 @@ http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r
 http://45.71.202.210:50000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
-http://200.73.117.225:8000/play/a01u
+http://170.79.233.222:8500/play/a0e5/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO 2
 http://179.51.168.13:3000/play/a03a
