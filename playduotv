@@ -49,7 +49,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 
 #EXTINF:-1   group-title="INFANTILES",Disney-Channel
-https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=disneychannel&k=black-ghost&f=.m3u8
+http://170.79.233.222:8500/play/a0jr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
