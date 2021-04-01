@@ -17,7 +17,7 @@ http://170.79.233.222:8500/play/a0eb/index.m3u8
 #EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
-https://g4.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=ciudadmagazine&k=black-ghost&f=.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -101,13 +101,13 @@ http://170.79.233.222:8500/play/a0m6/index.m3u8
 #EXTINF: https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://blackghost.live/play/17-328.php?c=191729
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
-https://blackghost.live/play/17-328.php?c=191730
+
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://blackghost.live/play/wistream-328.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports 2
 
