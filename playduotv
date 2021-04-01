@@ -61,10 +61,10 @@ https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=pakapaka&k=black
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
-https://blackghost.live/play/teleclub-328.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=discoverychannel&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
-https://blackghost.live/play/teleclub-328.php?c=la-discovery-home-health&f=.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=discoveryhh&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 http://45.170.40.2:8000/play/a015/index.m3u8
@@ -73,7 +73,7 @@ http://45.170.40.2:8000/play/a015/index.m3u8
 http://170.79.233.222:8500/play/a0g6/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/teleclub-328.php?c=la-animal-planet-hd&f=.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------
