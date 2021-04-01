@@ -176,7 +176,7 @@ http://170.79.233.222:8500/play/a0l1/index.m3u8
 #EXTINF: http://170.79.233.222:8500/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-https://blackghost.live/play/zufree-330.php?c=340&f=.ts
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=paramountchannel&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
 http://170.79.233.222:8500/play/a0k0/index.m3u8
