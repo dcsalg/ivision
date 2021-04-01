@@ -179,13 +179,13 @@ http://170.79.233.222:8500/play/a0l1/index.m3u8
 https://blackghost.live/play/wistream-330.php?cat=latinos&ch=paramountchannel&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
-http://170.79.233.222:8500/play/a0k0/index.m3u8
+https://blackghost.live/play/teleclub-330.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Warner
-http://170.79.233.222:8500/play/a0e3/index.m3u8
+https://blackghost.live/play/teleclub-330.php?c=la-warner-hd&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
-http://170.79.233.222:8500/play/a0ic/index.m3u8
+https://blackghost.live/play/teleclub-330.php?c=la-sony-hd&f=.m3u8
 
 
 
