@@ -13,7 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/master/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MjEyMzY1LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6IjBhNWVjNmY2YmI1ZTVlMjgxZGVjYzljZjZiNzc0M2ZiMjhkODg4YTEifQ==
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://blackghost.live/play/wistream-328.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+http://170.79.233.222:8500/play/a0eb/index.m3u8
 #EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
@@ -70,7 +70,7 @@ https://blackghost.live/play/teleclub-328.php?c=la-discovery-home-health&f=.m3u8
 http://45.170.40.2:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History-Channel
-https://blackghost.live/play/teleclub-328.php?c=la-history-channel-hd&f=.m3u8
+http://170.79.233.222:8500/play/a0g6/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
 https://blackghost.live/play/teleclub-328.php?c=la-animal-planet-hd&f=.m3u8
@@ -133,7 +133,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://45.71.202.210:50000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-https://blackghost.live/play/wistream-328.php?cat=latinos&ch=mtv&k=black-ghost&f=.m3u8
+http://170.79.233.222:8500/play/a0kj/index.m3u8
 #EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg" group-title="ENTRETENIMIENTO",radiom2o
@@ -151,7 +151,7 @@ https://blackghost.live/play/wistream-328.php?cat=latinos&ch=cinecanal&k=black-g
 https://blackghost.live/play/teleclub-328.php?c=la-cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
-https://blackghost.live/play/teleclub-328.php?c=la-fx-hd&f=.m3u8
+http://170.79.233.222:8500/play/a0gm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=9AxwojQMT8iG2zPFE_C2wQ&expires=1616010645
