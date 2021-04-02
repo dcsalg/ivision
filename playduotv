@@ -29,7 +29,7 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
 https://g5.vxral-slo.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
-http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
  
 #EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
