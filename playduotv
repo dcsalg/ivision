@@ -146,6 +146,11 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:--------------------------CINE-----------------------------------------
 
+
+#EXTINF:-1 group-title="Lista 22" logo="https://www.televall.online/gallery/tnthd_thumb_qztt4ksj.png" group-title="CINE",TNT
+http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=ZbiBP_wWlCaFqRaAq_dnUg&expires=1616011187
+
+
 #EXTINF:-1 group-title="Lista 22" logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="CINE",SPACE
 http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
