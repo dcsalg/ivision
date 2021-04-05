@@ -158,7 +158,7 @@ http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%
 http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 https://blackghost.live/play/wistream-330.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8
