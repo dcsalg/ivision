@@ -195,10 +195,10 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=paramountchannel&k=
 https://blackghost.live/play/teleclub-400.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"  group-title="CINE",Warner
-https://blackghost.live/play/teleclub-330.php?c=la-warner-hd&f=.m3u8
+https://blackghost.live/play/teleclub-400.php?c=la-warner-hd&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
-https://blackghost.live/play/teleclub-330.php?c=la-sony-hd&f=.m3u8
+https://blackghost.live/play/teleclub-400.php?c=la-sony-hd&f=.m3u8
 
 
 
@@ -209,7 +209,7 @@ https://blackghost.live/play/teleclub-330.php?c=la-sony-hd&f=.m3u8
 https://blackghost.live/play/zufree-330.php?c=50&f=.ts
 
 #EXTINF:-1 group-title="24 7",ALF
-https://blackghost.live/play/zufree-330.php?c=11&f=.ts
+https://blackghost.live/play/zufree-400.php?c=11&f=.ts
 
 #EXTINF:-1 group-title="24 7",EL CHAVO DEL 8
 https://blackghost.live/play/zufree-330.php?c=44&f=.ts
