@@ -161,7 +161,8 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=space&k=black-ghost
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-http://45.170.40.2:8000/play/a00c/index.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8
+#EXTINF: http://45.170.40.2:8000/play/a00c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
@@ -180,6 +181,9 @@ http://45.71.202.210:50000/play/a02m/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO 2
 http://179.51.168.13:3000/play/a03a
+
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="CINE",HBO PLUS
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=hboplus&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
 http://179.51.168.13:3000/play/a03d
