@@ -161,7 +161,7 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=space&k=black-ghost
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/zufree-400.php?c=277&f=.ts
+http://200.54.19.131:8500/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fx&k=black-ghost&f=.m3u8
