@@ -96,7 +96,7 @@ https://blackghost.live/play/wistream-330.php?cat=latinos&ch=telenovelas&k=black
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=fox-sports1ar&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fox-sports1ar&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
@@ -107,10 +107,10 @@ http://170.79.233.222:8500/play/a0m6/index.m3u8
 #EXTINF: https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
-https://blackghost.live/play/17-330.php?c=123042
+https://blackghost.live/play/17-400.php?c=123042
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
@@ -189,10 +189,10 @@ https://blackghost.live/play/wistream-330.php?cat=latinos&ch=hbosignature&k=blac
 #EXTINF: http://170.79.233.222:8500/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=paramountchannel&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=paramountchannel&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
-https://blackghost.live/play/teleclub-330.php?c=la-universal-channel&f=.m3u8
+https://blackghost.live/play/teleclub-400.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"  group-title="CINE",Warner
 https://blackghost.live/play/teleclub-330.php?c=la-warner-hd&f=.m3u8
