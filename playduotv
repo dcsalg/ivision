@@ -165,7 +165,7 @@ http://200.54.19.131:8500/play/a0k1/index.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-http://45.170.40.2:8000/play/a00c/index.m3u8
+http://200.95.184.43:8000/play/a04b
 #EXTINF:  https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8
 
 
