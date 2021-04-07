@@ -66,7 +66,7 @@ https://blackghost.live/play/wistream-328.php?cat=infantiles&ch=pakapaka&k=black
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
-http://45.170.40.2:8000/play/a03b/index.m3u8
+http://170.79.233.222:8500/play/a0gl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
 http://179.51.168.13:3000/play/a03f
