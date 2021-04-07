@@ -78,7 +78,7 @@ http://45.170.40.2:8000/play/a015/index.m3u8
 http://200.54.19.131:8500/play/a0g6/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES",National Geographic 
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=nationalgeo&k=black--gh0st&f=.m3u8
+http://179.51.168.13:3000/play/a02i
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=animalplanet&k=black--gh0st&f=.m3u8
