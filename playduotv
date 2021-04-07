@@ -154,8 +154,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 http://170.79.233.222:8500/play/a0kv/index.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=tnt&k=black-ghost&f=.m3u8
 
-
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
+http://200.73.117.225:8000/play/a01y
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=space&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
