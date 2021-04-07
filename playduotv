@@ -195,7 +195,7 @@ http://45.71.202.210:50000/play/a02m/index.m3u8
 http://179.51.168.13:3000/play/a03a
 
 #EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="CINE",HBO PLUS
-http://200.54.19.131:8500/play/a0l0/index.m3u8
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=hboplus&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
 http://179.51.168.13:3000/play/a03d
