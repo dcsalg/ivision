@@ -79,7 +79,7 @@ http://200.54.19.131:8500/play/a0g6/index.m3u8
 http://200.54.19.131:8500/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
+http://200.54.19.131:8500/play/a0j4/index.m3u8
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------
