@@ -166,7 +166,6 @@ http://45.170.40.2:8000/play/a00c/index.m3u8
 #EXTINF:  https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 http://170.79.233.222:8500/play/a0gm/index.m3u8
 
@@ -177,6 +176,12 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fxm&k=black-ghost&f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
 http://45.71.202.210:50000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="Lista 08",Golden
+http://170.79.233.222:8500/play/a0hd/index.m3u8
+
+#EXTINF:-1 group-title="Lista 08",Golden Edge
+http://170.79.233.222:8500/play/a0di/index.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
 http://45.71.202.210:50000/play/a02m/index.m3u8
