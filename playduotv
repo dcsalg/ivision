@@ -96,7 +96,7 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=telenovelas&k=black
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fox-sports1ar&k=black-ghost&f=.m3u8
+http://170.79.233.222:8500/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
@@ -168,7 +168,7 @@ http://45.170.40.2:8000/play/a00c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fx&k=black-ghost&f=.m3u8
+http://170.79.233.222:8500/play/a0gm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
