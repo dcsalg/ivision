@@ -116,13 +116,13 @@ http://170.79.233.222:8500/play/a0m6/index.m3u8
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports 2
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
