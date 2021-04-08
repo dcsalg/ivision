@@ -184,10 +184,10 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fxm&k=black--gh0st&
 http://45.71.202.210:50000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="Lista 08",Golden
-http://200.54.19.131:8500/play/a0hd/index.m3u8
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=golden&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 group-title="Lista 08",Golden Edge
-http://200.54.19.131:8500/play/a0di/index.m3u8
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=goldenplus&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
 http://45.71.202.210:50000/play/a02m/index.m3u8
