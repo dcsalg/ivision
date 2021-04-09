@@ -158,19 +158,15 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1 logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE",TNT
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=tnt&k=black--gh0st&f=.m3u8
-#EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=tnt&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
 http://179.51.168.13:3000/play/a03h
-#EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=space&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-#EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=cinecanal&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-http://200.95.184.43:8000/play/a04b
-#EXTINF:  https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8
-
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=cinemax&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fx&k=black--gh0st&f=.m3u8
