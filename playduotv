@@ -157,7 +157,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE",TNT
-http://170.79.233.222:8500/play/a0kv/index.m3u8
+https://blackghost.live/play/wistream-402.php?cat=latinos&ch=tnt&k=black--gh0st&f=.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=tnt&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
@@ -183,10 +183,10 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fxm&k=black--gh0st&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
 http://45.71.202.210:50000/play/a01m/index.m3u8
 
-#EXTINF:-1 group-title="Lista 08",Golden
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/golden-hd_thumb_ij9nv9yo.png" group-title="CINE",Golden
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=golden&k=black--gh0st&f=.m3u8
 
-#EXTINF:-1 group-title="Lista 08",Golden Edge
+#EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_mqg7i2y3.png" group-title="CINE",Golden Edge
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=goldenplus&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
