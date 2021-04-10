@@ -50,7 +50,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 
-#EXTINF:-1   group-title="INFANTILES",Disney-Channel
+#EXTINF:-1  group-title="INFANTILES",Disney-Channel
 http://170.79.233.222:8500/play/a0jr/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
@@ -65,7 +65,7 @@ https://blackghost.live/play/wistream-402.php?cat=infantiles&ch=pakapaka&k=black
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery"  tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery.png" group-title="DOCUMENTALES",Discovery Channel
 http://170.79.233.222:8500/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
@@ -74,13 +74,13 @@ http://179.51.168.13:3000/play/a03f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 http://45.170.40.2:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=history&k=black--gh0st&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES",National Geographic 
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
 http://179.51.168.13:3000/play/a02i
 
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=animalplanet&k=black--gh0st&f=.m3u8
 
 
@@ -90,7 +90,7 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=animalplanet&k=blac
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL",TVE 
+#EXTINF:-1tvg-name="TVE" group-title="INTERNACIONAL",TVE 
 http://45.71.202.210:50000/play/a020/index.m3u8
 
 
