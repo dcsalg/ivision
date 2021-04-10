@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-chno="9" tvg-id="americatv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
  
-#EXTINF:-1 tvg-chno="10" tvg-logo="http://w2.junindelosandes.gov.ar/wp-content/uploads/2017/02/imagen-294.png" group-title="ARGENTINA",TVP
+#EXTINF:-1 tvg-chno="10" tvg-name="TVP" tvg-logo="http://w2.junindelosandes.gov.ar/wp-content/uploads/2017/02/imagen-294.png" group-title="ARGENTINA",TVP
 https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
+#EXTINF:-1 tvg-chno="11"  tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
@@ -40,7 +40,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1
 #EXTINF:-1 tvg-id="Music Top" tvg-name="Music Top" tvg-logo="https://televisionlibre.net/img/logo_canal/Music_Top.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
+#EXTINF:-1 tvg-id="" tvg-name="GarageTv" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_sleng.m3u8
 #EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
