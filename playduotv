@@ -204,8 +204,8 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=hbosignature&k=blac
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-http://200.54.19.131:8500/play/a0hg/index.m3u8
-#EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=paramountchannel&k=black-ghost&f=.m3u8
+https://blackghost.live/play/tlvall-402.php?c=542&f=.m2u8
+#EXTINF: g
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
 https://blackghost.live/play/teleclub-402.php?c=la-universal-channel&f=.m3u8
