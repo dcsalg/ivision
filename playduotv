@@ -75,7 +75,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618096885/ei/l
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
 https://blackghost.live/402/tvx.php?opcion=xtv30&amp;c=26758
 
-
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
 http://179.51.168.13:3000/play/a02i
 
