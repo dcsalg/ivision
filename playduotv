@@ -73,7 +73,8 @@ http://179.51.168.13:3000/play/a03f
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618096885/ei/ld5xYIuJMY30wQSDgr-oCQ/ip/186.12.137.183/id/Frz3iEwVKbs.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIRNprbtXfnsw6qBT_O3JMdWMr98AwMqcG-OhBkw_TGvAiEAyHKXQiI7F2vDopA_-rIS3xl0GUhfJnoucCFWhERrpm4%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=history&k=black--gh0st&f=.m3u8
+https://blackghost.live/402/tvx.php?opcion=xtv30&amp;c=26758
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
 http://179.51.168.13:3000/play/a02i
@@ -114,7 +115,7 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fox-sports-premium&
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
-http://45.170.40.2:8000/play/a03g/index.m3u8
+https://blackghost.live/402/tv1.php
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
