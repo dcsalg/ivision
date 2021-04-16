@@ -79,7 +79,7 @@ https://blackghost.live/402/tvx.php?opcion=xtv30&amp;c=26758
 http://179.51.168.13:3000/play/a02i
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=animalplanet&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=animalplanet&k=black--gh0st&f=.m3u8
 
 
 
@@ -93,14 +93,14 @@ http://45.71.202.210:50000/play/a020/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="INTERNACIONAL", TLNovelas
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=telenovelas&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=telenovelas&k=black--gh0st&f=.m3u8
 
 
 #EXTINF:--------------------------DEPORTES-----------------------------------------
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fox-sports1ar&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fox-sports1ar&k=black--gh0st&f=.m3u8
 
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
@@ -110,7 +110,7 @@ https://e10.espncdn.me/ingestnb4s/espn_sur/c.m3u8
 https://e10.espncdn.me/ingestnb4s/espn2_sur/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
 http://45.170.40.2:8000/play/a03g/index.m3u8
@@ -154,22 +154,22 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE",TNT
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=tnt&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=tnt&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
 http://179.51.168.13:3000/play/a03h
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=cinecanal&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=cinecanal&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=cinemax&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=cinemax&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=fx&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fx&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=fxm&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fxm&k=black--gh0st&f=.m3u8
 #EXTINF: http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=9AxwojQMT8iG2zPFE_C2wQ&expires=1616010645
 
 
@@ -177,10 +177,10 @@ https://blackghost.live/play/wistream-405.php?cat=latinos&ch=fxm&k=black--gh0st&
 http://45.71.202.210:50000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/golden-hd_thumb_ij9nv9yo.png" group-title="CINE",Golden
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=golden&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=golden&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_mqg7i2y3.png" group-title="CINE",Golden Edge
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=goldenplus&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=goldenplus&k=black--gh0st&f=.m3u8
 
 
 #EXTINF:-1 group-title="CINE",HBO
@@ -190,32 +190,32 @@ http://45.71.202.210:50000/play/a02m/index.m3u8
 http://179.51.168.13:3000/play/a03a
 
 #EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="CINE",HBO PLUS
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=hboplus&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=hboplus&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
 http://179.51.168.13:3000/play/a03d
 #EXTINF: http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Signature.png"  group-title="CINE",HBO Signature
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=hbosignature&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=hbosignature&k=black--gh0st&f=.m3u8
 
 #EXTINF:  http://200.54.19.131:8500/play/a0l1/index.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-https://blackghost.live/play/tlvall-405.php?c=542&f=.m2u8
+https://blackghost.live/play/tlvall-406.php?c=542&f=.m2u8
 
 #EXTINF: g
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
-https://blackghost.live/play/teleclub-402.php?c=la-universal-channel&f=.m3u8
+https://blackghost.live/play/teleclub-406.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"  group-title="CINE",Warner
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=warner&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=warner&k=black--gh0st&f=.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=warner&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
-https://blackghost.live/play/wistream-405.php?cat=latinos&ch=sony&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-406.php?cat=latinos&ch=sony&k=black--gh0st&f=.m3u8
 
 
 
@@ -223,19 +223,19 @@ https://blackghost.live/play/wistream-405.php?cat=latinos&ch=sony&k=black--gh0st
 
 
 #EXTINF:-1 group-title="24 7",LOS PICA PIEDRAS
-https://blackghost.live/play/zufree-405.php?c=50&f=.ts
+https://blackghost.live/play/zufree-406.php?c=50&f=.ts
 
 #EXTINF:-1 group-title="24 7",ALF
-https://blackghost.live/play/zufree-405.php?c=11&f=.ts
+https://blackghost.live/play/zufree-406.php?c=11&f=.ts
 
 #EXTINF:-1 group-title="24 7",EL CHAVO DEL 8
-https://blackghost.live/play/zufree-405.php?c=30&f=.ts
+https://blackghost.live/play/zufree-406.php?c=30&f=.ts
 
 #EXTINF:-1 group-title="24 7",LA PANTERA ROSA
 https://blackghost.live/play/zufree-405.php?c=44&f=.ts
 
 #EXTINF:-1 group-title="24 7",THUNDERCAST
-https://blackghost.live/play/zufree-405.php?c=72&f=.ts
+https://blackghost.live/play/zufree-406.php?c=72&f=.ts
 
 #EXTINF:-1 group-title="24 7",JUEGO DE TRONOS
-https://blackghost.live/play/zufree-405.php?c=39&f=.ts
+https://blackghost.live/play/zufree-406.php?c=39&f=.ts
