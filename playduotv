@@ -64,7 +64,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery.png" group-title="DOCUMENTALES",Discovery Channel
-http://170.79.233.222:8500/play/a0j5/index.m3u8
+http://45.71.202.210:50000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
 http://45.71.202.210:50000/play/a026/index.m3u8
