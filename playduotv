@@ -104,10 +104,10 @@ https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fox-sports1ar&k=bla
 
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-http://45.170.40.2:8000/play/a04d/index.m3u8
+http://45.170.40.2:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-https://e10.espncdn.shop/ingestnb4s/espn2_sur/master.m3u8
+http://45.170.40.2:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
