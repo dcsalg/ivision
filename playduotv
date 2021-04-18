@@ -176,6 +176,10 @@ https://blackghost.live/play/wistream-406.php?cat=latinos&ch=fxm&k=black--gh0st&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
 http://45.71.202.210:50000/play/a01m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-action_thumb.png" group-title="CINE",STAR ACTION
+https://blackghost.live/play/tlvall-406.php?c=552&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/golden-hd_thumb_ij9nv9yo.png" group-title="CINE",Golden
 https://blackghost.live/play/tlvall-406.php?c=95&f=.m3u8
 
