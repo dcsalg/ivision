@@ -70,7 +70,7 @@ http://45.71.202.210:50000/play/a00n/index.m3u8
 http://45.71.202.210:50000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618096885/ei/ld5xYIuJMY30wQSDgr-oCQ/ip/186.12.137.183/id/Frz3iEwVKbs.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIRNprbtXfnsw6qBT_O3JMdWMr98AwMqcG-OhBkw_TGvAiEAyHKXQiI7F2vDopA_-rIS3xl0GUhfJnoucCFWhERrpm4%3D/file/index.m3u8
+http://45.170.40.2:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
 http://45.71.202.210:50000/play/a01j/index.m3u8
