@@ -197,7 +197,7 @@ http://45.71.202.210:50000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="CINE",HBO 2
 http://179.51.168.13:3000/play/a03a
 
-#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="CINE",HBO PLUS
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
 https://blackghost.live/play/tlvall-406.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
