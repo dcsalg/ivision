@@ -142,7 +142,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://45.71.202.210:50000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-http://170.79.233.222:8500/play/a0kj/index.m3u8
+http://45.71.202.210:50000/play/a01o/index.m3u8
 #EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg" group-title="ENTRETENIMIENTO",radiom2o
