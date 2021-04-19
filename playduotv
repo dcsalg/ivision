@@ -161,10 +161,10 @@ https://blackghost.live/play/tlvall-406.php?c=549&f=.m3u8
 http://45.71.202.210:50000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/wistream-406.php?cat=latinos&ch=cinecanal&k=black--gh0st&f=.m3u8
+http://45.71.202.210:50000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/wistream-406.php?cat=latinos&ch=cinemax&k=black--gh0st&f=.m3u8
+http://45.71.202.210:50000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 http://45.71.202.210:50000/play/a02r/index.m3u8
@@ -223,7 +223,7 @@ https://blackghost.live/play/teleclub-406.php?c=la-warner-hd&f=.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=warner&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
-https://blackghost.live/play/wistream-406.php?cat=latinos&ch=sony&k=black--gh0st&f=.m3u8
+http://45.71.202.210:50000/play/a02o/index.m3u8
 
 
 
