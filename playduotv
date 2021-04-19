@@ -57,8 +57,8 @@ https://blackghost.live/play/teleclub-406.php?c=la-cartoon-network-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Pakapaka.png" group-title="INFANTILES",Paka-Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Nick.png" group-title="INFANTILES", Nickelodeon
+http://45.71.202.210:50000/play/a01g/index.m3u8
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
