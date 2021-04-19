@@ -158,7 +158,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 https://blackghost.live/play/tlvall-406.php?c=549&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
-http://179.51.168.13:3000/play/a03h
+http://45.71.202.210:50000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
 https://blackghost.live/play/wistream-406.php?cat=latinos&ch=cinecanal&k=black--gh0st&f=.m3u8
