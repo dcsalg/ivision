@@ -161,7 +161,8 @@ http://45.71.202.210:50000/play/a08s/index.m3u8
 http://45.71.202.210:50000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-http://blackghost.live/play/catorce-406.php?ch=CINECANALMX
+http://45.71.202.210:50000/play/a01k/index.m3u8
+#EXTINF: http://blackghost.live/play/catorce-406.php?ch=CINECANALMX
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 http://45.71.202.210:50000/play/a02n/index.m3u8
