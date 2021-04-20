@@ -154,8 +154,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:--------------------------CINE-----------------------------------------
 
 
-#EXTINF:-1 logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE",TNT
-
+#EXTINF:-1 logo="" group-title="CINE",AXN
+http://45.71.202.210:50000/play/a08s/index.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
 http://45.71.202.210:50000/play/a02q/index.m3u8
