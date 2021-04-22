@@ -198,20 +198,20 @@ https://blackghost.live/play/owly-409.php?c=836|User-Agent=aLdmqnyYav2x4MX9YjU9J
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
 https://blackghost.live/play/owly-409.php?c=837|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
-#EXTINF: http://179.51.168.13:3000/play/a03a
+#EXTINF: 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
-https://blackghost.live/play/tlvall-409.php?c=560&f=.m3u8
+https://blackghost.live/play/owly-409.php?c=839|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
-http://45.71.202.210:50000/play/a00h/index.m3u8
+https://blackghost.live/play/owly-409.php?c=838|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
-http://45.71.202.210:50000/play/a00g/index.m3u8
-#EXTINF: http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
+https://blackghost.live/play/owly-409.php?c=841|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
+#EXTINF:
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Signature.png"  group-title="CINE",HBO Signature
-https://blackghost.live/play/teleclub-409.php?c=HBO-SIGNATURE-HD&f=.m3u8
+https://blackghost.live/play/owly-409.php?c=840|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
 
 #EXTINF:  http://200.54.19.131:8500/play/a0l1/index.m3u8
  
