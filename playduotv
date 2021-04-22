@@ -197,8 +197,9 @@ http://blackghost.live/play/catorce-409.php?ch=GOLDENPLUSMX
 http://45.71.202.210:50000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
-https://blackghost.live/play/tlvall-409.php?c=559&f=.m3u8
-#EXTINF: http://179.51.168.13:3000/play/a03a
+http://179.51.168.13:3000/play/a03a
+#EXTINF:  https://blackghost.live/play/tlvall-409.php?c=559&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
 https://blackghost.live/play/tlvall-409.php?c=560&f=.m3u8
@@ -269,6 +270,4 @@ https://blackghost.live/play/zufree-409.php?c=53&f=.ts
 #EXTINF:-1 group-title="24 7",BREAKING  BAD
 https://blackghost.live/play/zufree-409.php?c=17&f=.ts
 
-#EXTINF:-1 group-title="Lista 04",HBO 2
-https://blackghost.live/play/owly-409.php?c=837|User-Agent=aLdmqnyYav2x4MX9YjU9JMq9e82B8zb1Kzu5cexfB8cmejQedNTAmBWRNhqJymwHvYRex5q5YfxbDDETdzV2WHqw7a6fupwCtkwmmKxzaT6DG2x2SjiQUkUrRp4fLWCZjmNYuNBmGnvdkPYJeTAcKq9jza67urGCNq81fDeZf27RyKfSPRDWrMXVYqMieZiUr61QSLUf2xv6ggTgFaM1FZjB8YeqV
 
