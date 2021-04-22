@@ -79,7 +79,8 @@ http://45.71.202.210:50000/play/a01j/index.m3u8
 http://45.71.202.210:50000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/teleclub-409.php?c=la-animal-planet-hd&f=.m3u8
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8|User-Agent=vsaClient/4.4.6
+
 
 
 
