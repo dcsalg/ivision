@@ -216,7 +216,7 @@ https://blackghost.live/play/teleclub-409.php?c=HBO-SIGNATURE-HD&f=.m3u8
 #EXTINF:  http://200.54.19.131:8500/play/a0l1/index.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Paramount_Network.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-409.php?c=la-paramount-channel-hd&f=.m3u8
 
 #EXTINF: g
