@@ -69,8 +69,8 @@ http://45.71.202.210:50000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
 http://45.71.202.210:50000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
-http://45.170.40.2:8000/play/a015/index.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
+#EXTINF  http://45.170.40.2:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
 http://45.71.202.210:50000/play/a01j/index.m3u8
