@@ -102,7 +102,7 @@ https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-http://blackghost.live/play/catorce-426.php?ch=FOXSPORTSMX
+http://blackghost.live/play/catorce-429.php?ch=FOXSPORTSMX
 
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
@@ -199,7 +199,7 @@ https://blackghost.live/play/wistream-426.php?cat=latinos&ch=goldenplus&f=.m3u8
 http://45.71.202.210:50000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
-https://blackghost.live/play/teleclub-429.php?c=la-HBO-2&f=.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
 #EXTINF:  https://blackghost.live/play/tlvall-409.php?c=559&f=.m3u8
 
 
