@@ -102,14 +102,13 @@ https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=espn1ar&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=espn1ar&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=espn2ar&f=.m3u8
-
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=espn2ar&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
@@ -124,7 +123,7 @@ https://blackghost.live/play/wistream-426.php?cat=latinos&ch=tnt-sports&k=black-
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg" group-title="DEPORTES",TyC Sports
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=tyc&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=tyc&f=.m3u8
 #EXTINF: https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 
