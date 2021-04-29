@@ -78,7 +78,7 @@ https://blackghost.live/play/wistream-426.php?cat=latinos&ch=discoveryhh&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
-http://45.71.202.210:50000/play/a01i/index.m3u8
+https://blackghost.live/play/tlvall-426.php?c=579&f=.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
 https://blackghost.live/play/teleclub-426.php?c=la-animal-planet-hd&f=.m3u8
