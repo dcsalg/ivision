@@ -91,7 +91,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-animal-planet-hd&f=.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1tvg-name="TVE" group-title="INTERNACIONAL",TVE 
-http://45.71.202.210:50000/play/a020/index.m3u8
+http://138.0.229.88:8000/play/a013/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Las_Estrellas_logo_(2016).png" group-title="INTERNACIONAL", Canal de las Estrellas
