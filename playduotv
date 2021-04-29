@@ -60,7 +60,8 @@ https://blackghost.live/play/teleclub-426.php?c=la-cartoon-network-hd&f=.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Nick.png" group-title="INFANTILES", Nickelodeon
-http://45.71.202.210:50000/play/a01g/index.m3u8
+https://blackghost.live/play/wistream-426.php?cat=infantiles&ch=nick&f=.m3u8
+
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
