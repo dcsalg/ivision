@@ -166,7 +166,7 @@ https://blackghost.live/play/wistream-426.php?cat=latinos&ch=cinecanal&f=.m3u8
 #EXTINF: http://blackghost.live/play/catorce-406.php?ch=CINECANALMX
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=cinemax&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=fx&f=.m3u8
@@ -206,10 +206,10 @@ https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
 https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=hbofamily&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=hbofamily&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=maxprime&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=maxprime&f=.m3u8
 #EXTINF: http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Signature.png"  group-title="CINE",HBO Signature
