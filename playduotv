@@ -51,7 +51,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 
 #EXTINF:-1  group-title="INFANTILES",Disney-Channel
-http://45.71.202.210:50000/play/a00m/index.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-disney-channel-hd&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
 https://blackghost.live/play/teleclub-426.php?c=la-cartoon-network-hd&f=.m3u8
@@ -66,16 +66,16 @@ http://45.71.202.210:50000/play/a01g/index.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery.png" group-title="DOCUMENTALES",Discovery Channel
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=discoverychannel&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=discoverychannel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
-https://blackghost.live/play/wistream-429.php?cat=latinos&ch=discoveryhh&f=.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=discoveryhh&f=.m3u8
 
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 #EXTINF  http://45.170.40.2:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
-http://45.71.202.210:50000/play/a01j/index.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
 http://45.71.202.210:50000/play/a01i/index.m3u8
@@ -141,7 +141,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment 
-http://45.71.202.210:50000/play/a00q/index.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
 http://45.71.202.210:50000/play/a01o/index.m3u8
@@ -156,10 +156,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 logo="" group-title="CINE",TNT
-http://45.71.202.210:50000/play/a01v/index.m3u8
+https://blackghost.live/play/wistream-426.php?cat=latinos&ch=tnt&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
-http://45.71.202.210:50000/play/a02q/index.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-space-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=cinecanal&f=.m3u8
