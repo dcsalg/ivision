@@ -207,7 +207,8 @@ https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
-https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
+http://138.0.229.88:8000/play/a00n/index.m3u8
+#EXTINF: https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=hbofamily&f=.m3u8
