@@ -14,12 +14,8 @@ https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=eltrece&f=.m3u8
-
-
 #EXTINF: https://usher.ttvnw.net/api/channel/hls/50k_wttttt.m3u8?allow_source=true&fast_bread=true&p=4092627&play_session_id=03ab2ed27adda8df965089fe3a909c31&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=ec4a23b75f4ab2114d28bfc9db35e0b817d1a8d0&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%2250k_wttttt%22%2C%22channel_id%22%3A659605316%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2279fd3bceca6e5378%22%2C%22expires%22%3A1617754512%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.137.183%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.
 
-#EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
-https://blackghost.live/play/wistream-426.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
