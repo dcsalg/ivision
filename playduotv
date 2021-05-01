@@ -63,10 +63,10 @@ https://blackghost.live/play/wistream-426.php?cat=infantiles&ch=nick&f=.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery.png" group-title="DOCUMENTALES",Discovery Channel
-https://blackghost.live/play/wistream-426.php?cat=latinos&ch=discoverychannel&f=.m3u8
+https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
-https://blackghost.live/play/wistream-426.php?cat=latinos&ch=discoveryhh&f=.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-discovery-home-health&f=.m3u8
 
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 #EXTINF  http://45.170.40.2:8000/play/a015/index.m3u8
@@ -163,7 +163,7 @@ https://blackghost.live/play/wistream-426.php?cat=latinos&ch=cinecanal&f=.m3u8
 #EXTINF: http://blackghost.live/play/catorce-406.php?ch=CINECANALMX
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/wistream-426.php?cat=latinos&ch=cinemax&f=.m3u8
+https://blackghost.live/play/teleclub-426.php?c=la-cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/wistream-426.php?cat=latinos&ch=fx&f=.m3u8
@@ -183,7 +183,7 @@ https://blackghost.live/play/tlvall-426.php?c=552&f=.m3u8
 https://blackghost.live/play/tlvall-426.php?c=554&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-hits_thumb.png" group-title="CINE",STAR HITS
-https://blackghost.live/play/wistream-426.php?cat=latinos&ch=foxmovies&f=.m3u8
+https://blackghost.live/play/teleclub-426.php?c=Fox-Movies-HD&f=.m3u8
 
 
 
