@@ -157,7 +157,7 @@ https://blackghost.live/play/wistream-501.php?cat=latinos&ch=tnt&f=.m3u8
 https://blackghost.live/play/teleclub-501.php?c=la-space-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/tlvall-501.php?c=533&f=.m3u8
+https://blackghost.live/play/wistream-501.php?cat=latinos&ch=cinecanal&f=.m3u8
 #EXTINF: g
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
