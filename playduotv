@@ -100,7 +100,7 @@ https://blackghost.live/play/teleclub-501.php?c=Canal-de-las-Estrellas-HD&f=.m3u
 https://blackghost.live/play/wistream-501.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-https://blackghost.live/play/wistream-501.php?cat=latinos&ch=espn1ar&f=.m3u8
+http://138.0.229.88:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
 https://blackghost.live/play/wistream-501.php?cat=latinos&ch=espn2ar&f=.m3u8
