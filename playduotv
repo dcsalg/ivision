@@ -151,7 +151,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 logo="" group-title="CINE",TNT
-https://blackghost.live/play/tlvall-501.php?c=549&f=.m3u8
+https://blackghost.live/play/wistream-501.php?cat=latinos&ch=tnt&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
 https://blackghost.live/play/teleclub-501.php?c=la-space-hd&f=.m3u8
