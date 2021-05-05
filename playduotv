@@ -271,4 +271,6 @@ https://blackghost.live/play/zufree-501.php?c=53&f=.ts
 #EXTINF:-1 group-title="24 7",BREAKING  BAD
 https://blackghost.live/play/zufree-501.php?c=17&f=.ts
 
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/16x9/full/180/center/90/1bfafc55-f71a-48d3-bb7a-ed701a47d4bb-medium16x9_stirr_1219_epg_StingrayKaraoke_1920x1080.png" group-title="24 7", Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
