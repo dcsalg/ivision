@@ -199,8 +199,8 @@ https://blackghost.live/play/wistream-501.php?cat=latinos&ch=goldenplus&f=.m3u8
 https://blackghost.live/play/tlvall-501.php?c=558&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
-https://blackghost.live/play/teleclub-501.php?c=la-HBO-2&f=.m3u8
-#EXTINF:  https://blackghost.live/play/tlvall-409.php?c=559&f=.m3u8
+https://blackghost.live/play/tlvall-501.php?c=559&f=.m3u8
+#EXTINF:  https://blackghost.live/play/teleclub-501.php?c=la-HBO-2&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
