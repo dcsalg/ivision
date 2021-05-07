@@ -206,7 +206,7 @@ https://blackghost.live/play/tlvall-505.php?c=560&f=.m3u8
 #EXTINF: https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=hbofamily&f=.m3u8
+http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
 https://blackghost.live/play/wistream-505.php?cat=latinos&ch=maxprime&f=.m3u8
