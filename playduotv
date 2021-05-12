@@ -161,7 +161,7 @@ https://blackghost.live/play/tlvall-506.php?c=533&f=.m3u8
 #EXTINF: g
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://blackghost.live/play/tlvall-506.php?c=534&f=.m3u8
+http://blackghost.live/play/mitv-506.php?id=cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/teleclub-506.php?c=la-fx-hd&f=.m3u8
