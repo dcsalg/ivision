@@ -10,7 +10,7 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwOTEzMTc2LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6IjljMjcwMjc4NzBlOWI5MzFkYjU0NjExMzZmNTFjYTYzOGU2OTY5ZDgifQ==
+https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMDkzNzMyLCJzZXNzaW9uIjoiMTg2LjEyMy4yNDEuMzMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yNDEuMzMiXX0sInNpZ25hdHVyZSI6IjI5OTY4MjZhY2U5MWMzY2RiOTM0MjdkMzBmZTZlZmMwNTYwOTA1NzUifQ==
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
 https://blackghost.live/play/wistream-506.php?cat=latinos&ch=eltrece&f=.m3u8
@@ -109,7 +109,7 @@ https://blackghost.live/play/wistream-506.php?cat=latinos&ch=espn2ar&f=.m3u8
 https://blackghost.live/play/wistream-506.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
-https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=NNSfoGEuv07B9526RWpVEl957fD6SrJy5C2gtrFLJzDvQvVTdi2dTxXxQhujkX5wAWikijg0tIKVJcGbiWx25nCMEkWCMV7TjEIK-znkEwE1Eew23D5qXHCGm2rnyT0tcojLqzgdMk78T9iOSrgqw2j_TnHAE-QD4TqqhC14MlLmeBT75Te1KZyKfCFQv91h5jn56WgvOGgn2iGe3HAcCa1dID5GpRqFf3BFNMZDHcWCpKZjtL2co3iZb5hOqkyc-H3HQV8PoYCCrj_YtOLlwfrPphTHwCxGldbLk19g8alqDcwsHpeE1QNbKMD5DGlPpIY1jDATfo1httXMwEMep84vuWoCTCdLy75grcjiRESPdppOuluzPvdN1Q8CZvESXgkE5oK_CihFTfJMst7i1uahXnL6_wC1Gr8Ou1-O5DTxOTFQgHZ6dsD2K05e1MTad9CARXpt1zK_LfcNVWt91g==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
 https://blackghost.live/play/wistream-506.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
