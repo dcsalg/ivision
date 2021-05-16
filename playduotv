@@ -202,7 +202,7 @@ http://blackghost.live/play/mitv-509.php?id=hbo2&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
-https://blackghost.live/play/tlvall-509.php?c=560&f=.m3u8
+http://blackghost.live/play/mitv-509.php?id=hboplus&f=.m3u8
 #EXTINF: https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
