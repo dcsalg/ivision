@@ -13,7 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMDkzNzMyLCJzZXNzaW9uIjoiMTg2LjEyMy4yNDEuMzMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yNDEuMzMiXX0sInNpZ25hdHVyZSI6IjI5OTY4MjZhY2U5MWMzY2RiOTM0MjdkMzBmZTZlZmMwNTYwOTA1NzUifQ==
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=eltrece&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=eltrece&f=.m3u8
 #EXTINF: https://usher.ttvnw.net/api/channel/hls/50k_wttttt.m3u8?allow_source=true&fast_bread=true&p=4092627&play_session_id=03ab2ed27adda8df965089fe3a909c31&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=ec4a23b75f4ab2114d28bfc9db35e0b817d1a8d0&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%2250k_wttttt%22%2C%22channel_id%22%3A659605316%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2279fd3bceca6e5378%22%2C%22expires%22%3A1617754512%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.137.183%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.
 
 
@@ -47,36 +47,36 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 
 #EXTINF:-1  group-title="INFANTILES",Disney-Channel
-https://blackghost.live/play/teleclub-506.php?c=la-disney-channel-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-disney-channel-hd&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
-https://blackghost.live/play/teleclub-506.php?c=la-cartoon-network-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-cartoon-network-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Nick.png" group-title="INFANTILES", Nickelodeon
-https://blackghost.live/play/wistream-506.php?cat=infantiles&ch=nick&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=infantiles&ch=nick&f=.m3u8
 
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery.png" group-title="DOCUMENTALES",Discovery Channel
-https://blackghost.live/play/teleclub-506.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery Home & Health
-https://blackghost.live/play/teleclub-506.php?c=la-discovery-home-health&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-discovery-home-health&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
-https://blackghost.live/play/teleclub-506.php?c=la-history-channel-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=nationalgeo&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=nationalgeo&f=.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/teleclub-506.php?c=la-animal-planet-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-animal-planet-hd&f=.m3u8
 
 
 
@@ -90,35 +90,35 @@ http://138.0.229.88:8000/play/a013/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Las_Estrellas_logo_(2016).png" group-title="INTERNACIONAL", Canal de las Estrellas
-https://blackghost.live/play/teleclub-506.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
 
 
 #EXTINF:--------------------------DEPORTES-----------------------------------------
 
 
 #EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 http://138.0.229.88:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=espn2ar&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=espn2ar&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=fox-sports-premium&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium 2
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=tnt-sports&k=black--gh0st&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports 2
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg" group-title="DEPORTES",TyC Sports
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=tyc&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=tyc&f=.m3u8
 #EXTINF: https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 
@@ -136,10 +136,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment 
-https://blackghost.live/play/teleclub-506.php?c=la-e-entertainment-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-e-entertainment-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-https://blackghost.live/play/teleclub-506.php?c=la-mtv-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-mtv-hd&f=.m3u8
 #EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg" group-title="ENTRETENIMIENTO",radiom2o
@@ -151,87 +151,87 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 logo="" group-title="CINE",TNT
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=tnt&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=tnt&f=.m3u8
 
 #EXTINF:-1 logo="http://television.com.ar/wp-content/uploads/2020/02/spacelogo.jpg" group-title="CINE",SPACE
-https://blackghost.live/play/teleclub-506.php?c=la-space-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-space-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/tlvall-506.php?c=533&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=533&f=.m3u8
 #EXTINF: g
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-http://blackghost.live/play/mitv-506.php?id=cinemax&f=.m3u8
+http://blackghost.live/play/mitv-509.php?id=cinemax&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
-https://blackghost.live/play/teleclub-506.php?c=la-fx-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-fx-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
-https://blackghost.live/play/tlvall-506.php?c=538&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=538&f=.m3u8
 #EXTINF: =1616010645
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
-https://blackghost.live/play/tlvall-506.php?c=551&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=551&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-action_thumb.png" group-title="CINE",STAR ACTION
-https://blackghost.live/play/tlvall-506.php?c=552&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=552&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-fun_thumb.png" group-title="CINE",STAR FUN
-https://blackghost.live/play/teleclub-506.php?c=la-fox-family-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-fox-family-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-hits_thumb.png" group-title="CINE",STAR HITS
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=foxmovies&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=foxmovies&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/golden-hd_thumb_ij9nv9yo.png" group-title="CINE",Golden
-https://blackghost.live/play/teleclub-506.php?c=GOLDEN-HD&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=GOLDEN-HD&f=.m3u8
 
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_mqg7i2y3.png" group-title="CINE",Golden plus
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=goldenplus&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=goldenplus&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO.png" group-title="CINE",HBO
-https://blackghost.live/play/tlvall-506.php?c=558&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=558&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
-https://blackghost.live/play/tlvall-506.php?c=559&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=559&f=.m3u8
 #EXTINF:  https://blackghost.live/play/teleclub-501.php?c=la-HBO-2&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Plus.png" group-title="CINE",HBO PLUS
-https://blackghost.live/play/tlvall-506.php?c=560&f=.m3u8
+https://blackghost.live/play/tlvall-509.php?c=560&f=.m3u8
 #EXTINF: https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
-https://blackghost.live/play/wistream-506.php?cat=latinos&ch=maxprime&f=.m3u8
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=maxprime&f=.m3u8
 #EXTINF: http://38.18.238.35:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=PZMCLl4RsjpAZvsVfIJwOA&expires=1616010679
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Signature.png"  group-title="CINE",HBO Signature
-https://blackghost.live/play/teleclub-506.php?c=HBO-SIGNATURE-HD&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=HBO-SIGNATURE-HD&f=.m3u8
 
 #EXTINF:  http://200.54.19.131:8500/play/a0l1/index.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Paramount_Network.png" group-title="CINE",PARAMOUNT
-https://blackghost.live/play/teleclub-506.php?c=la-paramount-channel-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-paramount-channel-hd&f=.m3u8
 
 #EXTINF: g
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
-https://blackghost.live/play/teleclub-506.php?c=la-universal-channel&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"  group-title="CINE",Warner
-https://blackghost.live/play/teleclub-506.php?c=la-warner-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-warner-hd&f=.m3u8
 #EXTINF: https://blackghost.live/play/wistream-400.php?cat=latinos&ch=warner&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
-https://blackghost.live/play/teleclub-506.php?c=la-sony-hd&f=.m3u8
+https://blackghost.live/play/teleclub-509.php?c=la-sony-hd&f=.m3u8
 #EXTINF: http://45.71.202.210:50000/play/a02o/index.m3u8
 
 
@@ -239,37 +239,37 @@ https://blackghost.live/play/teleclub-506.php?c=la-sony-hd&f=.m3u8
 
 
 #EXTINF:-1 group-title="24 7",LOS PICA PIEDRAS
-https://blackghost.live/play/zufree-506.php?c=50&f=.ts
+https://blackghost.live/play/zufree-509.php?c=50&f=.ts
 
 #EXTINF:-1 group-title="24 7",ALF
-https://blackghost.live/play/zufree-506.php?c=11&f=.ts
+https://blackghost.live/play/zufree-509.php?c=11&f=.ts
 
 #EXTINF:-1 group-title="24 7",EL CHAVO DEL 8
-https://blackghost.live/play/zufree-506.php?c=30&f=.ts
+https://blackghost.live/play/zufree-509.php?c=30&f=.ts
 
 #EXTINF:-1 group-title="24 7",LA PANTERA ROSA
-https://blackghost.live/play/zufree-506.php?c=44&f=.ts
+https://blackghost.live/play/zufree-509.php?c=44&f=.ts
 
 #EXTINF:-1 group-title="24 7",THUNDERCAST
-https://blackghost.live/play/zufree-506.php?c=72&f=.ts
+https://blackghost.live/play/zufree-509.php?c=72&f=.ts
 
 #EXTINF:-1 group-title="24 7",JUEGO DE TRONOS
-https://blackghost.live/play/zufree-506.php?c=39&f=.ts
+https://blackghost.live/play/zufree-509.php?c=39&f=.ts
 
 #EXTINF:-1 group-title="24 7",ROBOTECH
-https://blackghost.live/play/zufree-506.php?c=63&f=.ts
+https://blackghost.live/play/zufree-509.php?c=63&f=.ts
 
 #EXTINF:-1 group-title="24 7",LOS SIMPSON
-https://blackghost.live/play/zufree-506.php?c=8&f=.ts
+https://blackghost.live/play/zufree-509.php?c=8&f=.ts
 
 #EXTINF:-1 group-title="24 7",He-Man
-https://blackghost.live/play/zufree-506.php?c=37&f=.ts
+https://blackghost.live/play/zufree-509.php?c=37&f=.ts
 
 #EXTINF:-1 group-title="24 7",Mazinger Z
-https://blackghost.live/play/zufree-506.php?c=53&f=.ts
+https://blackghost.live/play/zufree-509.php?c=53&f=.ts
 
 #EXTINF:-1 group-title="24 7",BREAKING  BAD
-https://blackghost.live/play/zufree-506.php?c=17&f=.ts
+https://blackghost.live/play/zufree-509.php?c=17&f=.ts
 
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/16x9/full/180/center/90/1bfafc55-f71a-48d3-bb7a-ed701a47d4bb-medium16x9_stirr_1219_epg_StingrayKaraoke_1920x1080.png" group-title="24 7", Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
