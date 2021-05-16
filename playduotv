@@ -70,7 +70,7 @@ https://blackghost.live/play/teleclub-509.php?c=la-discovery-home-health&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History Channel
-https://blackghost.live/play/teleclub-509.php?c=la-history-channel-hd&f=.m3u8
+http://blackghost.live/play/mitv-509.php?id=history&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Natgeo.png"  group-title="DOCUMENTALES",National Geographic 
 https://blackghost.live/play/wistream-509.php?cat=latinos&ch=nationalgeo&f=.m3u8
