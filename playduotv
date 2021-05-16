@@ -194,10 +194,10 @@ https://blackghost.live/play/wistream-509.php?cat=latinos&ch=goldenplus&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO.png" group-title="CINE",HBO
-https://blackghost.live/play/tlvall-509.php?c=558&f=.m3u8
+http://blackghost.live/play/mitv-509.php?id=hbo&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_2.png" group-title="CINE",HBO 2
-https://blackghost.live/play/tlvall-509.php?c=559&f=.m3u8
+http://blackghost.live/play/mitv-509.php?id=hbo2&f=.m3u8
 #EXTINF:  https://blackghost.live/play/teleclub-501.php?c=la-HBO-2&f=.m3u8
 
 
@@ -206,7 +206,7 @@ https://blackghost.live/play/tlvall-509.php?c=560&f=.m3u8
 #EXTINF: https://blackghost.live/play/tlvall-426.php?c=560&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Family.png" group-title="CINE",HBO Family
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+http://blackghost.live/play/mitv-509.php?id=hbofamily&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/HBO_Xtreme.png" group-title="CINE",HBO XTREME
 https://blackghost.live/play/wistream-509.php?cat=latinos&ch=maxprime&f=.m3u8
