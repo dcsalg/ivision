@@ -88,6 +88,8 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1tvg-name="TVE" group-title="INTERNACIONAL",TVE 
 http://138.0.229.88:8000/play/a013/index.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONAL",Antena 3
+http://stream.tvtap.live:8081/live/es-antenna-3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Las_Estrellas_logo_(2016).png" group-title="INTERNACIONAL", Canal de las Estrellas
 https://blackghost.live/play/teleclub-518.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
