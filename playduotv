@@ -177,7 +177,7 @@ http://blackghost.live/play/mitv-518.php?id=fxm&f=.m3u8
 https://blackghost.live/play/tlvall-518.php?c=551&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-action_thumb.png" group-title="CINE",STAR ACTION
-https://blackghost.live/play/tlvall-518.php?c=552&f=.m3u8
+https://blackghost.live/play/wistream-bglve-518.php?cat=latinos&ch=foxaction&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/star-fun_thumb.png" group-title="CINE",STAR FUN
 https://blackghost.live/play/wistream-bglve-518.php?cat=latinos&ch=foxfamily&f=.m3u8
