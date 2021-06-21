@@ -137,8 +137,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment 
-https://blackghost.live/play/teleclub-518.php?c=la-e-entertainment-hd&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Cosmo
+http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1513523140_b3128000_sling.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
 https://blackghost.live/play/teleclub-518.php?c=la-mtv-hd&f=.m3u8
